@@ -328,3 +328,4 @@ Bir hata bulduysanız veya öneriniz varsa, lütfen GitHub üzerinden [issue aç
 ## 📄 Lisans
 
 Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakın.
+# Trigger deploy
